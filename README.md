@@ -7,7 +7,7 @@ Generic implementation of genetic algorithm in Java.
 1. git clone https://github.com/AmineDevp/GenericGeneticAlgorithm.git </li>
 2. mvn -f GenericGeneticAlgorithm/pom.xml install </li>
 
-### basic example ###
+### Basic Example ###
 ```java
 
 import java.util.ArrayList;
